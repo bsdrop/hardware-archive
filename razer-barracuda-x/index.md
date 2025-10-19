@@ -27,9 +27,9 @@
 ## 📸 Photos
 |  |  |
 |----|--------|
-| Left | ![ ](images/left.jpg) |
-| Right | ![ ](images/rpcb1.jpg) |
-| Battery | ![ ](images/rbat.jpg) |
+| Left | ![ ](assets/left.jpg) |
+| Right | ![ ](assets/rpcb1.jpg) |
+| Battery | ![ ](assets/rbat.jpg) |
 
 ---
 
